@@ -1,0 +1,19 @@
+.btn-floating {
+  text-align: center;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+
+.canvas {
+  background-color: whitesmoke;
+  text-align: center;
+  padding-bottom: 100vh;
+  color: black;
+}
+.canvas-dark {
+  background-color: rgb(58, 58, 58);
+  text-align: center;
+  padding-bottom: 100vh;
+  color: aliceblue;
+}
